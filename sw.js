@@ -1,4 +1,4 @@
-const CACHE = "cg160-titan-v3";
+const CACHE = "cg160-titan-v4";
 const ASSETS = [
   "./","./index.html","./manifest.webmanifest",
   "./icon-192.png","./icon-512.png","./icon-maskable-512.png",
