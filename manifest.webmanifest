@@ -1,6 +1,6 @@
 {
-  "name": "Oficina · CG 160 Titan",
-  "short_name": "CG 160",
+  "name": "Controle de Manutenção",
+  "short_name": "Manutenção",
   "description": "Histórico de manutenção e próximas trocas da Honda CG 160 Titan.",
   "lang": "pt-BR",
   "start_url": "./index.html",
